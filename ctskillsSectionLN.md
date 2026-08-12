@@ -16,6 +16,6 @@ Main Problem: The process of buying food in the canteen is slow because it is to
 
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
-1. Some students will have to wait for long periods of time.
-2. The food options may become limited for the other students.
-3. Some might not be able to eat lunch because it's too crowded.
+1. Students who have trouble deciding their meals slow down the ordering process.
+2. The cashiers take more time to manually solve for the totals and change.
+3. Students don't know which options are still available due to the lack of a tracking system.
